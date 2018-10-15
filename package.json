@@ -1,7 +1,7 @@
 {
   "name": "@acollier/eslint-config",
   "version": "1.0.0",
-  "description": "eslint-config estending",
+  "description": "style-lint config for scss and prettier",
   "main": "index.js",
   "author": "Alex Collier",
   "license": "MIT",
