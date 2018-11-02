@@ -5,7 +5,7 @@
   "main": "index.js",
   "author": "Alex Collier",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "stylelint": "^9.5.0",
     "stylelint-config-prettier": "^4.0.0",
     "stylelint-config-recommended-scss": "^3.2.0",
