@@ -1,6 +1,6 @@
 {
   "name": "@acollier/stylelint-config-scss",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "stylelint config for scss and prettier",
   "main": "index.js",
   "author": "Alex Collier",
