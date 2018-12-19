@@ -1,7 +1,6 @@
 module.exports = {
   plugins: ['stylelint-scss'],
   extends: ['stylelint-config-recommended-scss', 'stylelint-config-prettier'],
-  fix: true,
   formatter: () => require('prettier'),
   rules: {
     'scss/at-if-closing-brace-newline-after': 'always-last-in-chain',
