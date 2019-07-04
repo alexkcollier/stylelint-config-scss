@@ -10,7 +10,8 @@
   },
   "scripts": {
     "lint": "eslint .",
-    "release": "standard-version && git push --follow-tags && yarn publish --non-interactive"
+    "release": "standard-version && git push --follow-tags && yarn publish --non-interactive",
+    "test": "echo \"No tests configured\""
   },
   "devDependencies": {
     "@acollier/eslint-config": "^2.1.0",
