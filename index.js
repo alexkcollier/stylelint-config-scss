@@ -1,6 +1,6 @@
 module.exports = {
   plugins: ['stylelint-order'],
-  extends: ['stylelint-config-standard'],
+  extends: ['stylelint-config-standard-scss'],
   rules: {
     'at-rule-empty-line-before': [
       'always',
