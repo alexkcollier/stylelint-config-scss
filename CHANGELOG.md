@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.1.1](https://github.com/alexkcollier/stylelint-config-scss/compare/v2.1.0...v2.1.1) (2019-07-14)
+
+
+### Bug Fixes
+
+* removes `stylelint-config-standard` ([7ab3683](https://github.com/alexkcollier/stylelint-config-scss/commit/7ab3683))
+
+
+
 ## [2.1.0](https://github.com/alexkcollier/stylelint-config-scss/compare/v1.1.2...v2.1.0) (2019-06-26)
 
 
