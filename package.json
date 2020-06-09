@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "@acollier/eslint-config": "^2.1.0",
-    "eslint": "^6.1.0",
+    "eslint": "^7.2.0",
     "eslint-config-standard": "^14.0.0",
     "eslint-plugin-import": "^2.17.3",
     "eslint-plugin-jest": "^23.0.0",
